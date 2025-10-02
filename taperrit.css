@@ -1,0 +1,43 @@
+/* Estilos para elementos con clase .titulo */
+.titulo {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+/* Estilos para todos los elementos con clase .texto */
+.texto {
+  color: gray;
+  font-family: Arial, sans-serif;
+
+}
+
+/* Estilo aplicado solo al elemento con id especial */
+#especial {
+  color: red;
+  font-weight: bold;
+}
+
+/* Estilo único para el header */
+#header {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+
+.perritos {
+ 
+  display: block;
+  margin: 10px auto;
+  max-width: 250px; 
+  height: auto;
+  border-radius: 8px;
+}
+
+.perritos1 img {
+  display: inline-block; 
+  width: 200px;          
+  height: auto;
+  margin: 0;            
+  padding: 0;   
+
+}
